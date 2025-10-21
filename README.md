@@ -1,4 +1,4 @@
-istema de Gerenciamento de Biblioteca Escolar Descrição O Sistema de Gerenciamento de Biblioteca Escolar é uma solução completa desenvolvida para modernizar e otimizar os processos de gestão de bibliotecas em instituições de ensino. Nosso objetivo é transformar a experiência bibliotecária através de uma plataforma intuitiva e eficiente.
+Sistema de Gerenciamento de Biblioteca Escolar Descrição O Sistema de Gerenciamento de Biblioteca Escolar é uma solução completa desenvolvida para modernizar e otimizar os processos de gestão de bibliotecas em instituições de ensino. Nosso objetivo é transformar a experiência bibliotecária através de uma plataforma intuitiva e eficiente.
 
 Solução moderna e automatizada
 
